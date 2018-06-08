@@ -1,74 +1,48 @@
-
-#rectangle
-{
+div{
+  float: left;
+}
+#rectangle{
   background-color: #00FF7F;
   height:50px;
   width: 80%;
-  float: left;
 }
-
-
-
-#bleu
-{
+#brectangle2{
   background-color: #1E90FF;
   height:50px;
   width:20%;
-  float: left;
 }
-#red
-{background-color: #FF7F50;
+#rectangle3{
+  background-color: #FF7F50;
   height:140px;
   width:30%;
-float: left;
 }
-
-#orange
-{
+#rectangle4{
   background-color: #FF8C00;
   height:70px;
   width:33%;
-float:left;
 }
-
-#gris
-{
+#rectangle5{
   background-color: #778899;
   height: 70px;
   width:37%;
-  float: left;
 }
-
-#jaune
-{background-color: #FFA500;
+#rectangle6{
+  background-color: #FFA500;
   height:70px;
   width:20%;
-  float: left;
-
 }
-
-#bleucanard
-{background-color: #3CB371;
+#rectangle7{
+  background-color: #3CB371;
   height:70px;
   width:25%;
-  float:left;
-
 }
-
-#orangebeurk
-
-{background-color: #FF4500;
+#rectangle8{
+  background-color: #FF4500;
   height:70px;
   width:25%;
-  float: left;
-
 }
-
-#antra
-
-{
+#rectangle9{
   background-color: #483D8B;
   height:200px;
   width:100%;
-  float: left;
 }
